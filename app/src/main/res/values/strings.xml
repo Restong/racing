@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">racing</string>
+    <string-array name="edit">
+        <item>default</item>
+        <item>choose</item>
+        <item>add</item>
+        <item>delete</item>
+        <item>rename</item>
+
+
+    </string-array>
+</resources>
